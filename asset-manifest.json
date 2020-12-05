@@ -1,13 +1,13 @@
 {
-  "main.css": "/iblasioS418.github.io/Iblasio-Portfolio/static/css/main.2fe1e65d.chunk.css",
-  "main.js": "/iblasioS418.github.io/Iblasio-Portfolio/static/js/main.cc538007.chunk.js",
-  "main.js.map": "/iblasioS418.github.io/Iblasio-Portfolio/static/js/main.cc538007.chunk.js.map",
-  "runtime~main.js": "/iblasioS418.github.io/Iblasio-Portfolio/static/js/runtime~main.259b301f.js",
-  "runtime~main.js.map": "/iblasioS418.github.io/Iblasio-Portfolio/static/js/runtime~main.259b301f.js.map",
-  "static/js/2.5ec21d73.chunk.js": "/iblasioS418.github.io/Iblasio-Portfolio/static/js/2.5ec21d73.chunk.js",
-  "static/js/2.5ec21d73.chunk.js.map": "/iblasioS418.github.io/Iblasio-Portfolio/static/js/2.5ec21d73.chunk.js.map",
-  "index.html": "/iblasioS418.github.io/Iblasio-Portfolio/index.html",
-  "precache-manifest.d78f204cf5035f6c0bc45311430fb15e.js": "/iblasioS418.github.io/Iblasio-Portfolio/precache-manifest.d78f204cf5035f6c0bc45311430fb15e.js",
-  "service-worker.js": "/iblasioS418.github.io/Iblasio-Portfolio/service-worker.js",
-  "static/css/main.2fe1e65d.chunk.css.map": "/iblasioS418.github.io/Iblasio-Portfolio/static/css/main.2fe1e65d.chunk.css.map"
+  "main.css": "/static/css/main.2fe1e65d.chunk.css",
+  "main.js": "/static/js/main.5fae140c.chunk.js",
+  "main.js.map": "/static/js/main.5fae140c.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
+  "static/js/2.5ec21d73.chunk.js": "/static/js/2.5ec21d73.chunk.js",
+  "static/js/2.5ec21d73.chunk.js.map": "/static/js/2.5ec21d73.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.7d539f69a1b4faaa49b93d3d321a1d62.js": "/precache-manifest.7d539f69a1b4faaa49b93d3d321a1d62.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.2fe1e65d.chunk.css.map": "/static/css/main.2fe1e65d.chunk.css.map"
 }
