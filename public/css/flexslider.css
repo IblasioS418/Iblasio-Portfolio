@@ -49,8 +49,10 @@
   -webkit-backface-visibility: hidden;
 }
 .flexslider .slides img {
-  width: 100%;
+  max-width: 100%;
+  max-height: 100%;
   display: block;
+  margin: auto;
 }
 .flexslider .slides:after {
   /*content: "\0020";*/
