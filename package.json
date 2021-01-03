@@ -5,6 +5,7 @@
   "homepage": "https://iblasioS418.github.io",
   "dependencies": {
     "create-react-app": "^4.0.0",
+    "node-sass": "^5.0.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5",
@@ -17,7 +18,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "compile:sass": "node-sass ./public/sass/style.scss ./public/css/style.css -w"
   },
   "eslintConfig": {
     "extends": "react-app"

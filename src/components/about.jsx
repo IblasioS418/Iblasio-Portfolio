@@ -12,6 +12,7 @@ export default class About extends Component {
                                     <div className="col-md-12">
                                         <div className="about-desc">
                                             <span className="heading-meta">About Me</span>
+                                            <a style={{backgroundImage: 'url(images/pic4.jpg)'}}></a>
                                             <h2 className="colorlib-heading">My Journey</h2>
                                             <p>Hi there,</p>
                                             <p>My name is Iblasio Sanchez,</p>
