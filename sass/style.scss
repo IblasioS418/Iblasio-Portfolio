@@ -197,8 +197,8 @@ figure {
 		padding-top: 4em;
 	}
 	.author-img{
-		width: 150px;
-		height: 150px;
+		width: 250px;
+		height: 300px;
 		margin: 0 auto;
 		margin-bottom: 30px;
 		@include border-radius(50%);
@@ -454,7 +454,7 @@ figure {
 				}s
 				.colorlib-lead{
 					font-size: 20px;
-					color: $brand-white;
+					color: $brand-black;
 				}
 				p{
 					margin-bottom: 0;
@@ -1480,12 +1480,12 @@ margin-left: -20px;
 	}
 }
 .btn-primary {
-	background: $brand-primary;
-	color: $brand-white;
-	border: 2px solid $brand-primary;
+	background: $brand-gray;
+	color: $brand-black;
+	border: 2px solid $brand-black;
 	&:hover, &:focus, &:active {
-		background: lighten($brand-primary, 5%)!important;
-		border-color: lighten($brand-primary, 5%)!important;
+		background: lighten($brand-blue, 5%)!important;
+		border-color: lighten($brand-white, 5%)!important;
 	}
 	&.btn-outline {
 		background: transparent;
@@ -1629,7 +1629,7 @@ margin-left: -20px;
   	position: relative;
 	  @include inline-block;
 	  width: 30px;
-	  height: 2px;
+	  height: 20px;
 	  color: $brand-black;
 	  font:bold 14px/.4 Helvetica;
 	  text-transform: uppercase;
@@ -1639,9 +1639,9 @@ margin-left: -20px;
 		 &::before, &::after {
 	  	  content:'';
 		  width: 30px;
-		  height: 2px;
+		  height: 20px;
 		  background: $brand-black;
-		  position: absolute;
+		  position: relative;
 		  left:0;
 		  @include transition(.2s);
 	  }
@@ -1692,7 +1692,7 @@ margin-left: -20px;
           transform: rotateZ(-45deg);
 }
 .colorlib-nav-toggle {
-  	position: fixed;
+  	position: relative;
   	left: -5px;
 	top: 0px;
 	z-index: 9999;
