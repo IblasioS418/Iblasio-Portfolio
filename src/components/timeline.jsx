@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Investigator <span>2020-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <p>In my role as a most relevant role at most relevant company or affilitation, I utilized and grew my expertise in top skills (i.e. React, Vue.js, Mobile Development, Python). I supported employer name or organization in achievement , achieving a measurable improvement or example of how you integrated automation in your non-technical work. My contributions resulted in a an improvement our measurable outcome.</p>
                       </div>
                     </div>
                   </article>
