@@ -10,8 +10,8 @@ export default class Sidebar extends Component {
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/pic1.jpg)'}} />
               <h1 id="colorlib-logo"><a href="index.html">Iblasio Sanchez</a></h1>
-              <span className="email"><i className="icon-mail"></i> Iblasio.Sanchez@gmail.com</span>
-              <span className="email"><i className="icon-phone3"></i> (718)371-8440 </span>
+              <center><span className="email"><i className="icon-mail"></i> Iblasio.Sanchez@gmail.com</span></center>
+              <center><span className="email"><i className="icon-phone3"></i> (718)371-8440 </span></center>
             </div>
             <br></br>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
@@ -28,9 +28,9 @@ export default class Sidebar extends Component {
             {/* <br></br> */}
             <nav id="colorlib-main-menu">
               <ul>
-                <li><a href="https://www.facebook.com/ibby.sanchez/" target="_blank" rel="noopener noreferrer"><span>Facebook </span><i className="icon-facebook2" /></a></li>
+                {/* <li><a href="https://www.facebook.com/ibby.sanchez/" target="_blank" rel="noopener noreferrer"><span>Facebook </span><i className="icon-facebook2" /></a></li>
                 <li><a href="https://twitter.com/IblasioSanchez" target="_blank" rel="noopener noreferrer"><span>Twitter </span><i className="icon-twitter2" /></a></li>
-                <li><a href="https://www.instagram.com/ibby418/" target="_blank" rel="noopener noreferrer"><span>Instagram </span><i className="icon-instagram" /></a></li>
+                <li><a href="https://www.instagram.com/ibby418/" target="_blank" rel="noopener noreferrer"><span>Instagram </span><i className="icon-instagram" /></a></li> */}
                 <li><a href="https://www.linkedin.com/in/iblasio-sanchez/" target="_blank" rel="noopener noreferrer"><span>Linkedin </span><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/IblasioS418" target="_blank" rel="noopener noreferrer"><span>Github </span><i className="icon-github"></i></a></li>
                 <li><a href="https://iblasio.home.blog/" target="_blank" rel="noopener noreferrer"><span>Blog </span><i className="icon-blogger"></i></a></li>

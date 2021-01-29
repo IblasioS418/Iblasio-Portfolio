@@ -1,9 +1,10 @@
 import React, { Component } from 'react'
 
+
 export default class About extends Component {
     render() {
         return (
-            <div>
+            <div>   
                 <section className="colorlib-about" data-section="about">
                     <div className="colorlib-narrow-content">
                         <div className="row">
@@ -13,7 +14,7 @@ export default class About extends Component {
                                         <div className="about-desc">
                                             <span className="heading-meta">About Me</span>
                                             <h2 className="colorlib-heading">My Journey</h2>
-                                            <p>Hi there,</p>
+                                            <p style={{Image: 'url(images/pic2.jpg)'}}>Hi there,</p>
                                             <p>My name is Iblasio Sanchez,</p>
                                             <p>I am an Experienced professional with a background in Pharmaceuticals and Manufacturing. Although I enjoyed working in Pharma and Manufacturing, I could not
                                             develop a passion for it as I felt that I had reached the upper limit in what I could learn. I am the type of person that firmly believes that there is no better
@@ -23,6 +24,9 @@ export default class About extends Component {
                                             <p>Some Hobbies and Interests of mine include motorcycles, cars, hiking, photography, traveling to different countries, writing, astrology, and video games. I love video games. </p>
                                             <p>As a recent bootcamp graduate, I am excited to build on the skills that I learned throughout the bootcamp and apply the unique set of skills that I have developed throughout my
                                             professional career in the tech industry!
+                                            </p>
+                                            <p>
+                                            <a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1alCXzfUZx2ufhCy88fCiAJAYxQQIIGAp/view?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a>
                                             </p>
                                         </div>
                                     </div>
