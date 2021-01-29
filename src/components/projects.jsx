@@ -18,9 +18,9 @@ export default class Projects extends Component {
 									<div className="desc">
 										<div className="con">
 											<h3><a href="https://editor.p5js.org/iblasios418/sketches/2r7U6o3Bs">Traffic Control</a></h3>
-											<span>Project overview</span>
-											<p>Small project created using p5.js in which the user can control a car going down 
-											an intersection. 
+											<span> Small project created using p5.js in which the user can control a car going down 
+											an intersection. </span>
+											<p>S
 											</p>
 											<p className="icon">
 												<span><a href="https://editor.p5js.org/iblasios418/sketches/2r7U6o3Bs"><i className="icon-share3" />View</a></span>
@@ -80,7 +80,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 05</a></h3>
+											<h3><a href="work.html">Vending Machine</a></h3>
 											<span>Graphic, Logo</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
@@ -95,7 +95,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 06</a></h3>
+											<h3><a href="work.html">Game</a></h3>
 											<span>Web Design</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>

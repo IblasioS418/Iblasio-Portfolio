@@ -17,13 +17,13 @@ export default class Timeline extends Component {
                 <div className="timeline-centered">
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-3">
+                      {/* <div className="timeline-icon color-3">
                         <i className="icon-bag" />
-                      </div>
-                      <div className="timeline-label">
+                      </div> */}
+                      {/* <div className="timeline-label">
                         <h2>Investigator <span>2020-present</span></h2>
-                        <p>In my role as a most relevant role at most relevant company or affilitation, I utilized and grew my expertise in top skills (i.e. React, Vue.js, Mobile Development, Python). I supported employer name or organization in achievement , achieving a measurable improvement or example of how you integrated automation in your non-technical work. My contributions resulted in a an improvement our measurable outcome.</p>
-                      </div>
+                        <p>In my role as a Technical Writer at most Bausch + Lomb I utilized and grew my expertise in top skills (i.e. React, Vue.js, Mobile Development, Python). I supported employer name or organization in achievement , achieving a measurable improvement or example of how you integrated automation in your non-technical work. My contributions resulted in a an improvement our measurable outcome.</p>
+                      </div> */}
                     </div>
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
@@ -32,8 +32,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Java Apprentice Software Guild<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Java Apprentice Software Guild<span> 2019-2020</span></h2>
+                        <p> As a Java Appretice I was able to develope my skills using Java as a programming language.  </p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +43,8 @@ export default class Timeline extends Component {
                         <i className="icon-paper-stack" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Manufacturing Technician <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Manufacturing Technician <span> 20117-2019</span></h2>
+                        <p>As a Mannufacturing Technician, I exercised skills in communication, critical thinking and technical writing and consistently contributed to team efforts and organizational improvements.</p> 
                       </div>
                     </div>
                   </article>
@@ -54,8 +54,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Filling Operator <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Machine Operator <span> 2016-2017</span></h2>
+                        <p>During my time working as a Machine Operator at Bausch + Lomb, I had the opportunity to develop my communication skills. </p> 
                       </div>
                     </div>
                   </article>
@@ -65,8 +65,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduate Degree<span>2011-2016</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Undergraduate Degree<span> 2011-2016</span></h2>
+                        <p> I completed my higher education majoring in Forensic Psychology. At school, I developed an interest in research and data analysis. I enjoyed compiling data from various sources and using this imformation to understand problems.</p> 
                       </div>
                     </div>
                   </article>
