@@ -93,8 +93,8 @@ figure {
       transform: translateX(-300px);
       padding-top: 4em; } }
   #colorlib-aside .author-img {
-    width: 220px;
-    height: 250px;
+    width: 250px;
+    height: 300px;
     margin: 0 auto;
     margin-bottom: 30px;
     -webkit-border-radius: 50%;
@@ -317,7 +317,7 @@ figure {
         #colorlib-hero .flexslider .slider-text > .slider-text-inner s
 .colorlib-lead {
           font-size: 20px;
-          color: #fff; }
+          color: #000; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner p {
           margin-bottom: 0; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn {
@@ -936,8 +936,8 @@ body.offcanvas {
     bottom: 0;
     left: 0;
     right: 0;
-    background: #2c98f0;
-    opacity: 50%;
+    background: gray;
+    opacity: 0%;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
     transition: 0.3s; }
@@ -1001,7 +1001,7 @@ body.offcanvas {
           -webkit-transform: translate3d(0, 0, 0);
           transform: translate3d(0, 0, 0); } }
   .project:hover .desc {
-    opacity: 50%; }
+    opacity: 70%; }
     .project:hover .desc h3 {
       -webkit-transform: translate3d(0, 0, 0);
       transform: translate3d(12, 75, 22); }
@@ -1175,8 +1175,8 @@ body.offcanvas {
   color: #000;
   border: 2px solid #000; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-    background: #f6f6f6 !important;
-    border-color: #0d0d0d !important; }
+    background: #44a4f2 !important;
+    border-color: white !important; }
   .btn-primary.btn-outline {
     background: transparent;
     color: #2c98f0;
@@ -1299,7 +1299,7 @@ body.offcanvas {
     zoom: 1;
     *display: inline;
     width: 30px;
-    height: 2px;
+    height: 20px;
     color: #000;
     font: bold 14px/.4 Helvetica;
     text-transform: uppercase;
@@ -1309,9 +1309,9 @@ body.offcanvas {
     .colorlib-nav-toggle i::before, .colorlib-nav-toggle i::after {
       content: '';
       width: 30px;
-      height: 2px;
+      height: 20px;
       background: #000;
-      position: absolute;
+      position: relative;
       left: 0;
       -webkit-transition: 0.2s;
       -o-transition: 0.2s;
@@ -1359,7 +1359,7 @@ body.offcanvas {
   transform: rotateZ(-45deg); }
 
 .colorlib-nav-toggle {
-  position: fixed;
+  position: relative;
   left: -5px;
   top: 0px;
   z-index: 9999;

@@ -20,7 +20,7 @@ export default class Projects extends Component {
 											<h3><a href="https://editor.p5js.org/iblasios418/sketches/2r7U6o3Bs">Traffic Control</a></h3>
 											<span> Small project created using p5.js in which the user can control a car going down 
 											an intersection. </span>
-											<p>S
+											<p>
 											</p>
 											<p className="icon">
 												<span><a href="https://editor.p5js.org/iblasios418/sketches/2r7U6o3Bs"><i className="icon-share3" />View</a></span>
@@ -36,11 +36,11 @@ export default class Projects extends Component {
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">DVD Library</a></h3>
-											<span>Animation</span>
+											<span>CRUD console application for a DVD Library</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												{/* <span><a href="#"><i className="icon-share3" /></a></span>
+												<span><a href="#"><i className="icon-eye" /> 100</a></span> */}
+												<span><a href="https://github.com/IblasioS418/MovieLibrary"><i className="icon-social-github-circular" /> Github</a></span>
 											</p>
 										</div>
 									</div>
@@ -51,11 +51,11 @@ export default class Projects extends Component {
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">Sales System</a></h3>
-											<span>Illustration</span>
+											<span>MVC CRUD application for a fictional flooring company</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												{/* <span><a href="#"><i className="icon-share3" /></a></span>
+												<span><a href="#"><i className="icon-eye" /> 100</a></span> */}
+												<span><a href="https://github.com/IblasioS418/FlooringSystem"><i className="icon-social-github-circular" /> Github</a></span>
 											</p>
 										</div>
 									</div>
@@ -68,9 +68,9 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Blog</a></h3>
 											<span>Application</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												{/* <span><a href="#"><i className="icon-share3" /></a></span>
+												<span><a href="#"><i className="icon-eye" /> 100</a></span> */}
+												<span><a href=""><i className="icon-social-github-circular" /> Github</a></span>
 											</p>
 										</div>
 									</div>
@@ -81,11 +81,11 @@ export default class Projects extends Component {
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">Vending Machine</a></h3>
-											<span>Graphic, Logo</span>
+											<span>MVC web application for a Vending Machine</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												{/* <span><a href="#"><i className="icon-share3" /></a></span>
+												<span><a href="#"><i className="icon-eye" /> 100</a></span> */}
+												<span><a href="https://github.com/IblasioS418/VM"><i className="icon-social-github-circular" /> Github</a></span>
 											</p>
 										</div>
 									</div>
@@ -98,9 +98,9 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Game</a></h3>
 											<span>Web Design</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												{/* <span><a href="#"><i className="icon-share3" /></a></span>
+												<span><a href="#"><i className="icon-eye" /> 100</a></span> */}
+												<span><a href="https://github.com/IblasioS418/Game1"><i className="icon-social-github-circular" /> Github</a></span>
 											</p>
 										</div>
 									</div>

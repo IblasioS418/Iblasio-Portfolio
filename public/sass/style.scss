@@ -1215,14 +1215,15 @@ margin-left: -20px;
 	width: 100%;
 	display: block;
 	margin-bottom: 30px;
+
 	.desc{
 		position: absolute;
 		top: 0;
 		bottom: 0;
 		left: 0;
 		right: 0;
-		background: $brand-primary;
-		opacity: 50%;
+		background: gray;
+		opacity: 0%;
 		@include transition(.3s);
 		.con{
 			padding: 20px;
@@ -1294,7 +1295,7 @@ margin-left: -20px;
 	}
 	&:hover{
 		.desc{
-			opacity: 50%;
+			opacity: 70%;
 			h3{
 				-webkit-transform: translate3d(0, 0, 0);
 				transform: translate3d(12, 75, 22);
@@ -1484,7 +1485,7 @@ margin-left: -20px;
 	color: $brand-black;
 	border: 2px solid $brand-black;
 	&:hover, &:focus, &:active {
-		background: lighten($brand-blue, 5%)!important;
+		background: lighten($brand-primary, 5%)!important;
 		border-color: lighten($brand-white, 5%)!important;
 	}
 	&.btn-outline {
