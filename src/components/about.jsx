@@ -12,14 +12,15 @@ export default class About extends Component {
                                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                                     <div className="col-md-12">
                                         <div className="about-desc">
-                                            <span className="heading-meta">About Me</span>
-                                            <h2 className="colorlib-heading">My Journey</h2>
+                                            <span className="heading-meta">Welcome</span>
+                                            <h2 className="colorlib-heading">About Me</h2>
                                             <p style={{Image: 'url(images/pic2.jpg)'}}>Hi there,</p>
                                             <p>My name is Iblasio Sanchez,</p>
                                             <p>I am an Experienced professional with a background in Pharmaceuticals and Manufacturing. Although I enjoyed working in Pharma and Manufacturing, I could not
                                             develop a passion for it as I felt that I had reached the upper limit in what I could learn. I am the type of person that firmly believes that there is no better
                                             reward than knowlege is always eager and hungry to learn new skills and add new tools to my toolbelt and what better career to work in than a career where learning never really ends.
-                                            I've always had a vested interest in technology but the infinite progression of Software Development has been the biggest draw for me and is what ultimately prompted me to switch careers.
+                                            I've always had a vested interest in technology but the infinite progression of Software Development has been the biggest draw for me and is what ultimately prompted me to switch careers. 
+                                            I am open-minded and focused on new developments in my field. I have proven to be effective and motivational, with proficiency in interpersonal and collaborative work. I enjoy brainstorming and coordinating efforts to achieve a common goal.
                                             </p>
                                             <p>Some Hobbies and Interests of mine include motorcycles, cars, hiking, photography, traveling to different countries, writing, astrology, and video games. I love video games. </p>
                                             <p>As a recent bootcamp graduate, I am excited to build on the skills that I learned throughout the bootcamp and apply the unique set of skills that I have developed throughout my
