@@ -14,7 +14,7 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/pic1.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/Blog1.jpg)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="https://editor.p5js.org/iblasios418/sketches/2r7U6o3Bs">Traffic Control</a></h3>
@@ -32,7 +32,7 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/Dvd1.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">DVD Library</a></h3>
@@ -47,7 +47,7 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
-								<div className="project" style={{backgroundImage: 'url(images/img-3.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/Flooring.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">Sales System</a></h3>
@@ -62,7 +62,7 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
-								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/Blog1.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">Blog</a></h3>
@@ -70,14 +70,14 @@ export default class Projects extends Component {
 											<p className="icon">
 												{/* <span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span> */}
-												<span><a href=""><i className="icon-social-github-circular" /> Github</a></span>
+												<span><a href="https://github.com/IblasioS418/Blog"><i className="icon-social-github-circular" /> Github</a></span>
 											</p>
 										</div>
 									</div>
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/game1.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">Vending Machine</a></h3>
@@ -92,11 +92,11 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/Game.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">Game</a></h3>
-											<span>Web Design</span>
+											<span>Small guessing game that utilizes api endpoints</span>
 											<p className="icon">
 												{/* <span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span> */}
@@ -109,7 +109,7 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-12 animate-box">
-								<p><a href="#" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
+								<p><a href="#" className="btn btn-primary btn-lg btn-load-more">Back to top <i className="icon-reload" /></a></p>
 							</div>
 						</div>
 					</div>
