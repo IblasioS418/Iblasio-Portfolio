@@ -18,7 +18,7 @@ export default class Projects extends Component {
 									<div className="desc">
 										<div className="con">
 											<h3><a href="https://editor.p5js.org/iblasios418/sketches/2r7U6o3Bs">Traffic Control</a></h3>
-											<span> Small project created using p5.js in which the user can control a car going down 
+											<span> Small project in which the user can control a car going down 
 											an intersection. </span>
 											<p>
 											</p>
