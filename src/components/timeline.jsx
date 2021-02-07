@@ -43,7 +43,7 @@ export default class Timeline extends Component {
                         <i className="icon-paper-stack" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Manufacturing Technician <span> 20117-2019</span></h2>
+                        <h2>Manufacturing Technician <span> 2017-2019</span></h2>
                         <p>As a Mannufacturing Technician, I exercised skills in communication, critical thinking and technical writing and consistently contributed to team efforts and organizational improvements.</p> 
                       </div>
                     </div>
