@@ -65,7 +65,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduate Degree<span> 2011-2016</span></h2>
+                        <h2>Bachelors Degree<span> 2011-2016</span></h2>
                         <p> I completed my higher education majoring in Forensic Psychology. At school, I developed an interest in research and data analysis. I enjoyed compiling data from various sources and using this imformation to understand problems.</p> 
                       </div>
                     </div>
