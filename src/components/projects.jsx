@@ -23,8 +23,8 @@ export default class Projects extends Component {
 											<p>
 											</p>
 											<p className="icon">
-												<span><a href="https://editor.p5js.org/iblasios418/sketches/2r7U6o3Bs"><i className="icon-share3" />View</a></span>
-												<span><a href="https://iblasio.home.blog/2019/11/26/traffic-control/"><i className="icon-eye" /> Blog</a></span>
+												<span><a href="https://editor.p5js.org/iblasios418/sketches/2r7U6o3Bs"><i className="icon-share3"></i>View</a></span>
+												{/* <span><a href="https://iblasio.home.blog/2019/11/26/traffic-control/"><i className="icon-eye" /> Blog</a></span> */}
 												<span><a href="#"><i className="icon-social-github-circular" /> Github</a></span>
 											</p>
 										</div>

@@ -27,7 +27,7 @@ export default class About extends Component {
                                             professional career in the tech industry!
                                             </p>
                                             <p>
-                                            <a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1alCXzfUZx2ufhCy88fCiAJAYxQQIIGAp/view?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a>
+                                            <a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/181frzGsdj3RW50KSTB4HJh7ltno4wimT/view?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a>
                                             </p>
                                         </div>
                                     </div>
